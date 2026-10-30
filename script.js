@@ -34,13 +34,6 @@ const GAMES = [
         url: "https://mozhihub.github.io/mad_drive/",
         image: "etc/drive.jpg"
     },
-   {
-        id: "jantar-mantar-run",
-        title: "jantar mantar run",
-        category: "Racing",
-        url: "https://mozhihub-localization.github.io/Jantar-mantar-/",
-        image: "etc/run.jpg"
-    },
 
     {
         id: "knife-hit",
