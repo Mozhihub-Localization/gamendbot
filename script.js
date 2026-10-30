@@ -1521,38 +1521,18 @@ function openGameExternal(){
    NAVIGATION
    ========================================================= */
 
-function goHome(){
-
-    window.scrollTo({
-        top:0,
-        behavior:"smooth"
-    });
-
-    closeSidebar();
-
-}
-
-
-function scrollGames(){
-
-    $("#gamesSection")
-        ?.scrollIntoView({
-            behavior:"smooth"
-        });
-
-    closeSidebar();
-
-}
-
 
 function openCommunity(){
 
-    window.location.href =
-        "community.html";
+    const communityURL = new URL(
+        "community.html",
+        window.location.href
+    ).href;
+
+    // Open inside the current WebView
+    window.location.assign(communityURL);
 
 }
-
-
 /* =========================================================
    SIDEBAR
    ========================================================= */
