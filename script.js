@@ -42,7 +42,14 @@ const GAMES = [
         url: "https://mozhihub.github.io/Knife/",
         image: "etc/knife.jpg"
     },
-
+   
+   {
+        id: "jantar-mantar-run",
+        title: "jantar mantar run",
+        category: "Racing",
+        url: "https://mozhihub-localization.github.io/Jantar-mantar-/",
+        image: "etc/run.jpg"
+    },
     {
         id: "shooting-bot",
         title: "Shooting Bot",
