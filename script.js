@@ -31,7 +31,7 @@ const GAMES = [
         id: "mad-drive",
         title: "Mad Drive",
         category: "Racing",
-        url: "https://mozhihub.github.io/mad_drive/",
+        url: "https://Mozhihub-Localization.github.io/mad_drive/",
         image: "etc/drive.jpg"
     },
    {
@@ -46,7 +46,7 @@ const GAMES = [
         id: "knife-hit",
         title: "Knife Hit",
         category: "Arcade",
-        url: "https://mozhihub.github.io/Knife/",
+        url: "https://Mozhihub-Localization.github.io/Knife/",
         image: "etc/knife.jpg"
     },
 
@@ -54,7 +54,7 @@ const GAMES = [
         id: "shooting-bot",
         title: "Shooting Bot",
         category: "Arcade",
-        url: "https://mozhihub.github.io/Shooting-bot/",
+        url: "https://Mozhihub-Localization.github.io/Shooting-bot/",
         image: "etc/shooter.jpg"
     },
 
@@ -62,7 +62,7 @@ const GAMES = [
         id: "hexa-master",
         title: "Hexa Master",
         category: "Puzzle",
-        url: "https://mozhihub.github.io/Hexa/",
+        url: "https://Mozhihub-Localization.github.io/Hexa/",
         image: "etc/hexa.jpg"
     },
 
@@ -70,7 +70,7 @@ const GAMES = [
         id: "paint",
         title: "Paint",
         category: "Creative",
-        url: "https://mozhihub.github.io/Paint/",
+        url: "https://Mozhihub-Localization.github.io/Paint/",
         image: "etc/paint.jpg"
     },
 
@@ -78,7 +78,7 @@ const GAMES = [
         id: "tic-tac-toe",
         title: "Tic-Tac-Toe",
         category: "Board Games",
-        url: "https://mozhihub.github.io/Tic-tac-toe-/",
+        url: "https://Mozhihub-Localization.github.io/Tic-tac-toe-/",
         image: "etc/tictac.jpg",
         howToPlay: "Take turns placing X and O. Get three matching marks in a row, column or diagonal to win."
     },
@@ -87,7 +87,7 @@ const GAMES = [
         id: "earth",
         title: "Earth",
         category: "Creative",
-        url: "https://mozhihub.github.io/Earth-/",
+        url: "https://Mozhihub-Localization.github.io/Earth-/",
         image: "etc/earth.jpg"
     },
 
@@ -95,7 +95,7 @@ const GAMES = [
         id: "zoom",
         title: "ZOOM",
         category: "Creative",
-        url: "https://mozhihub.github.io/Zoom/",
+        url: "https://Mozhihub-Localization.github.io/Zoom/",
         image: "etc/zoom.jpg"
     },
 
@@ -103,7 +103,7 @@ const GAMES = [
         id: "neon-shooter",
         title: "Neon Shooter",
         category: "Arcade",
-        url: "https://mozhihub.github.io/Neon-shooter/",
+        url: "https://Mozhihub-Localization.github.io/Neon-shooter/",
         image: "etc/neon.jpg"
     },
 
@@ -111,7 +111,7 @@ const GAMES = [
         id: "xox-online",
         title: "XOX Online",
         category: "Arcade",
-        url: "https://mozhihub.github.io/Xoxo-online/",
+        url: "https://Mozhihub-Localization.github.io/Xoxo-online/",
         image: "etc/xox.jpg"
     },
 
@@ -119,7 +119,7 @@ const GAMES = [
         id: "insto",
         title: "Insto",
         category: "Social",
-        url: "https://mozhihub.github.io/insto/",
+        url: "https://Mozhihub-Localization.github.io/insto/",
         image: "etc/insto.jpg"
     },
 
@@ -127,7 +127,7 @@ const GAMES = [
         id: "cube",
         title: "Rubik's Cube",
         category: "Puzzle",
-        url: "https://mozhihub.github.io/Cube/",
+        url: "https://Mozhihub-Localization.github.io/Cube/",
         image: "etc/cube.jpg"
     },
 
@@ -135,7 +135,7 @@ const GAMES = [
         id: "word-scramble",
         title: "Word Scramble",
         category: "Puzzle",
-        url: "https://mozhihub.github.io/wordScramble/",
+        url: "https://Mozhihub-Localization.github.io/wordScramble/",
         image: "etc/word.jpg"
     },
 
@@ -143,7 +143,7 @@ const GAMES = [
         id: "tetris",
         title: "Tetris",
         category: "Puzzle",
-        url: "https://mozhihub.github.io/Tetris/",
+        url: "https://Mozhihub-Localization.github.io/Tetris/",
         image: "etc/tetris.jpg"
     },
 
@@ -151,7 +151,7 @@ const GAMES = [
         id: "build-house",
         title: "Build House",
         category: "Creative",
-        url: "https://mozhihub.github.io/Build-House/",
+        url: "https://Mozhihub-Localization.github.io/Build-House/",
         image: "etc/build.jpg"
     },
 
@@ -159,7 +159,7 @@ const GAMES = [
         id: "snakes-and-ladders",
         title: "Snakes & Ladders",
         category: "Board Games",
-        url: "https://mozhihub.github.io/Snakesandladders/",
+        url: "https://Mozhihub-Localization.github.io/Snakesandladders/",
         image: "etc/snake.jpg",
         howToPlay: "Roll the dice and move your token. Climb ladders to move ahead and slide down snakes. Reach the final square first."
     },
@@ -168,7 +168,7 @@ const GAMES = [
         id: "chess",
         title: "Chess",
         category: "Board Games",
-        url: "https://mozhihub.github.io/Chess/",
+        url: "https://Mozhihub-Localization.github.io/Chess/",
         image: "etc/chess.jpg",
         howToPlay: "Move each piece according to chess rules and checkmate the opponent's king. Use strategy, tactics and piece development to win."
     },
@@ -177,7 +177,7 @@ const GAMES = [
         id: "centipede",
         title: "Centipede",
         category: "Creative",
-        url: "https://mozhihub.github.io/Centipede/",
+        url: "https://Mozhihub-Localization.github.io/Centipede/",
         image: "etc/cent.jpg"
     },
 
@@ -185,7 +185,7 @@ const GAMES = [
         id: "love-calculator",
         title: "Love Calculator",
         category: "Fun",
-        url: "https://mozhihub.github.io/Love-Calculator/",
+        url: "https://Mozhihub-Localization.github.io/Love-Calculator/",
         image: "etc/love.jpg"
     },
 
@@ -193,7 +193,7 @@ const GAMES = [
         id: "neon-vanguard",
         title: "Neon Vanguard",
         category: "Arcade",
-        url: "https://mozhihub.github.io/Neon-shooter/neon.html",
+        url: "https://Mozhihub-Localization.github.io/Neon-shooter/neon.html",
         image: "etc/vanguard.jpg"
     }
 ];
