@@ -13,6 +13,16 @@
   font-family: Inter, Poppins, system-ui, sans-serif;
 }
 
+:root[data-mode="light"] {
+  color-scheme: light;
+  --bg: #f3f4f8;
+  --surface: #ffffff;
+  --surface2: #eef0f5;
+  --text: #171722;
+  --muted: #686879;
+  --border: rgba(0,0,0,.10);
+}
+
 * { box-sizing: border-box; }
 
 body {
